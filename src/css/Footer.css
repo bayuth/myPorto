@@ -1,0 +1,11 @@
+.footer_area {
+    background: #021017;
+    padding: 120px 0;
+    position: relative;
+}
+.footer_area .footer_bottom {
+    text-align: center;
+}
+.footer-text{
+    color:#797979;
+}
